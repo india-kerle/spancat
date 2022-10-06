@@ -1,0 +1,4 @@
+pandas
+spacy
+tqdm
+ipykernel
