@@ -1,7 +1,7 @@
 # Training spaCy's spancat component in Python 🐍
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46863334/194558375-5cd56b9a-132b-4bcf-b707-d51896cdb63d.gif" alt="spancat"/>
+  <img src="https://user-images.githubusercontent.com/46863334/194558740-95e51e09-81d9-41b6-8481-38a2aaee3f98.gif" alt="spancat"/>
 </p>
 
 The code behind [this medium article on training spaCy's spancat component in Python](https://hackmd.io/Yg2u3MZQS26_WbdO5WSdWw?edit).
