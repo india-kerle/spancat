@@ -1,6 +1,6 @@
 # Training spaCy's spancat component in Python 🐍
 
-The code behind [this medium article on training spaCy's spancat component in Python](https://medium.com/all-you-can-heat/developing-a-heat-pump-installer-proximity-indicator-6188e321f709).
+The code behind [this medium article on training spaCy's spancat component in Python](https://hackmd.io/Yg2u3MZQS26_WbdO5WSdWw?edit).
 
 To download the dataset used in this article, sign up to kaggle and [download the .csv dataset here](https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset). 
 
@@ -13,7 +13,3 @@ To download the dataset used in this article, sign up to kaggle and [download th
 5. **add your environment to jupyter notebook:** `python -m ipykernel install --user --name=spancat_training`
 
 6. Run the notebook to replicate the training! Remember to make sure your kernel is the right environment, `spancat_training`.  
-
-## To dos ✔️ 
-
-1. debug training: why no predictions after certain # of iterations? 
