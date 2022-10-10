@@ -20,4 +20,10 @@ pip install -U spacy
 ```
 5. **(at the repo base) install other dependencies:** `pip install -r requirements.txt`
 
-6. Run the notebook to replicate the training! Remember to make sure your kernel is the right environment, `spancat_training`. You can add your `spancat_training` environment to jupyter notebook using ipy
+6. **add your environment to your notebook:** 
+```
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=spancat_training
+```
+
+7. **Run the notebook to replicate the training!** Remember to make sure your kernel is the right environment, `spancat_training`. 
