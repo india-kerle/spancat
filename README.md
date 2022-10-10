@@ -6,7 +6,8 @@
 
 The code behind [this medium article on training spaCy's spancat component in Python](https://hackmd.io/Yg2u3MZQS26_WbdO5WSdWw?edit).
 
-To download the dataset used in this article, sign up to kaggle and [download the .csv dataset here](https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset). 
+The entity recognition dataset has been downloaded from [Kaggle here](https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset) and is shared [under DbCL v1.0](https://www.ebi.ac.uk/ols/ontologies/swo/terms?iri=http%3A%2F%2Fwww.ebi.ac.uk%2Fswo%2Flicense%2FSWO_1000097).   
+
 
 ## Set up 🛠️
 
