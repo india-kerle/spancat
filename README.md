@@ -13,7 +13,12 @@ To download the dataset used in this article, sign up to kaggle and [download th
 1. **Clone this git repo:** `git clone https://github.com/india-kerle/spancat.git`
 2. **Create your conda environment:** `conda create --name spancat_training`
 3. **Activate your conda environment:** `conda activate spancat_training` 
-4. **(at the repo base) install dependencies:** `pip install -r requirements.txt`
-5. **add your environment to jupyter notebook:** `python -m ipykernel install --user --name=spancat_training`
+4. **install spacy:**
+```
+pip install -U pip setuptools wheel
+pip install -U spacy
 
-6. Run the notebook to replicate the training! Remember to make sure your kernel is the right environment, `spancat_training`.  
+```
+5. **(at the repo base) install other dependencies:** `pip install -r requirements.txt`
+
+6. Run the notebook to replicate the training! Remember to make sure your kernel is the right environment, `spancat_training`. You can add your `spancat_training` environment to jupyter notebook using ipy
