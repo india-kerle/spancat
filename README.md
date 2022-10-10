@@ -10,7 +10,7 @@ To download the dataset used in this article, sign up to kaggle and [download th
 
 ## Set up 🛠️
 
-1. **Clone this git repo:** `git clone https://github.com/india-kerle/skills_taxonomy.git`
+1. **Clone this git repo:** `git clone https://github.com/india-kerle/spancat.git`
 2. **Create your conda environment:** `conda create --name spancat_training`
 3. **Activate your conda environment:** `conda activate spancat_training` 
 4. **(at the repo base) install dependencies:** `pip install -r requirements.txt`
