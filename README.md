@@ -17,7 +17,6 @@ To download the dataset used in this article, sign up to kaggle and [download th
 ```
 pip install -U pip setuptools wheel
 pip install -U spacy
-
 ```
 5. **(at the repo base) install other dependencies:** `pip install -r requirements.txt`
 
